@@ -162,6 +162,5 @@ cython_debug/
 #.idea/
 myenv/
 logs/
-# Ignore the entire Merged_data folder
-Notebook/data/Merged_data/
+Notebook/data/Merged_data/*
 
